@@ -31,7 +31,7 @@ sns.set_context("paper",font_scale=0.9)
 sns.set_palette("tab10")
 
 
-os.chdir(r"C:\Users\Alberto\OneDrive - UAM\Alberto\ALBA\ID2023027489_November_2023\DATA\Analysis\Absorcion_200um")
+os.chdir(r"XXXXXXX") #Input working directory
 
 
 def mesh(positions):
